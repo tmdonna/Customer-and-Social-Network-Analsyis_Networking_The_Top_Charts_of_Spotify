@@ -1,4 +1,4 @@
-# Networking_The_Top_Charts_of_Spotify
+# Customer and Social Analysis: Networking_The_Top_Charts_of_Spotify
 
 Today, Spotify is the dominant music streaming service in the world, boasting 350 million subscribers and a market cap of $23.88 billion. In this project, we assess the factors that influence a song’s tendency to become popular. To obtain and evaluate the data set, web API’s of Spotify and Genius have been utilized. This project analyzes metrics of top Spotify songs such as danceability and artist popularity and their impact on a song’s popularity. Sentiment analysis has also been performed to find the sentiment score of each song to determine the correlation between the sentiment of a song’s lyrics and its popularity. Visual depictions of the connectivity of top songs are subsequently made through network representations. Applications of these network representations are further explored as it relates to making Spotify a more effective and engaging platform, not only as a streaming service but as a social network.
 
